@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "زهرا فیاضی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "zahra" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "zahra fayazi"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  bio              : I'm student of IUST
   location         : "تهران"
   email            : zahrafyz1883@gmail.com
   twitter: zahra-f
