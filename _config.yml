@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : zahra-fayazi
 facebook:
-  username               : sauleh.eetemadi
+  username               : zahra.fayazi
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -111,12 +111,12 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : zahrafyz1883@gmail.com
+  twitter: zahra-f
+  linkedin: zahra
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: zahrafayazi
+  instagram: zahra
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
