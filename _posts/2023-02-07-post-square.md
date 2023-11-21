@@ -14,7 +14,7 @@
 <br>
 <div style="font-weight: bold; font-size: larger;" dir="rtl">
 عکس
-<a href="file:///C:/git/FC02031/S9/2/treehtml/tree.html">
+<a href="https://zahrafayazi.github.io/post-tree/">
    درخت
 </a>
 </div>
@@ -22,7 +22,7 @@
 <br>
 <div style="font-weight: bold; font-size: larger;" dir="rtl">
     عکس
-    <a href="file:///C:/git/FC02031/S9/2/trianglehtml/triangle.html">
+    <a href="https://zahrafayazi.github.io/post-triangle/">
        فرکتال مثلث
     </a>
     <br>
