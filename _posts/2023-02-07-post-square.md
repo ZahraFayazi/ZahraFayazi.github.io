@@ -1,3 +1,7 @@
+title: فرکتال مربع
+---
+
+
 <html>
 <head>
     <title>فرکتال مربع</title>
