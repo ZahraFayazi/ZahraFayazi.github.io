@@ -4,9 +4,13 @@
 </head>
 <body>
 <h1 style="text-align: center; font-family: Tahoma; color: rgb(124, 14, 109); background-color: rgba(162, 255, 241, 0.565);">مثلث</h1>
-<br>
-<img src="triangle.png" alt="فرکتال مثلث" width="500" >
-<br>
+<br><br>
+
+  - url: /assets/images/triangle.PNG
+    image_path: /assets/images/tiangle.PNG
+    
+
+
 
     .این تصویر که حاوی مثلث های تو در تو است با استفاده از توابع بازگشتی ساخته شده است 
 این تابع شامل یک شرط برای خروج از حلقه و چند خط کد که به طور متوالی تکرار میشوند، است
