@@ -8,6 +8,14 @@ title: فرکتال مثلث
 
 ![alt text](../assets/images/triangle.png "Team Picture")
 
+کد پایتون این فرکتال به شکل زیر است:
+
+![alt text](../assets/images/trianglecode.png "Team Picture")
+
+---
 
 [فرکتال مربع](https://zahrafayazi.github.io/post-square/)
+
+
+
 [درخت](https://zahrafayazi.github.io/post-tree/)
